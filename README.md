@@ -28,7 +28,7 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 git clone https://github.com/gauravkumar08/quickshop-electronics.git
 cd quickshop-electronics
 
-```bash
+---
 
 ### 2. 🔧 Setup Backend
 
