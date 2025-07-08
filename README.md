@@ -8,7 +8,6 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 - 📦 Shopping cart with local storage state management
 - 🧾 Dynamic checkout with real-time item tracking
 - 💳 PayPal payment integration (Sandbox support)
-- 🖼️ Image management for product visuals
 - ❌ Product delete option in cart
 - ⚙️ Backend with Express.js and MongoDB (Atlas support)
 - 💡 Responsive UI with clean UX
