@@ -13,7 +13,6 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 - ⚙️ Backend with Express.js and MongoDB (Atlas support)
 - 💡 Responsive UI with clean UX
 
----
 
 ## 🚀 Tech Stack
 
@@ -21,7 +20,6 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 |---------------|---------------|------------|-----------------|
 | HTML5, CSS3, JS | Node.js, Express | MongoDB Atlas | PayPal Sandbox  |
 
----
 
 ## 🗂️ Project Structure
 
