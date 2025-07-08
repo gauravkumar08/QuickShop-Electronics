@@ -12,12 +12,25 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 - ⚙️ Backend with Express.js and MongoDB (Atlas support)
 - 💡 Responsive UI with clean UX
 
+## 🧰 Technologies Used
 
-## 🚀 Tech Stack
+### 🔙 Backend
+- **Node.js** – JavaScript runtime environment to build server-side logic
+- **Express.js** – Lightweight web framework for handling API routes and serving static frontend
+- **MongoDB Atlas** – Cloud-based NoSQL database to store products and cart info
+- **Mongoose** – Object Data Modeling (ODM) library to interact with MongoDB using schemas
+- **dotenv** – To manage environment variables securely (e.g. MongoDB URI, Port)
 
-| Frontend      | Backend       | Database   | Payment         |
-|---------------|---------------|------------|-----------------|
-| HTML5, CSS3, JS | Node.js, Express | MongoDB Atlas | PayPal Sandbox  |
+### 🎨 Frontend
+- **HTML5** – Structure of all web pages (`index.html`, `cart.html`, `checkout.html`)
+- **CSS3** – Styling the layout, responsiveness, and modern UI
+- **JavaScript (Vanilla JS)** – For handling interactivity like cart updates, filtering, search, etc.
+
+### 💰 Payments
+- **PayPal SDK** – Integrated payment gateway using PayPal Sandbox for secure transactions
+
+### 🖼️ Static Assets
+- **Images Folder** – All product images stored inside `frontend/images/`
 
 ## Installation
 
