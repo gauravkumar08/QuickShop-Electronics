@@ -20,19 +20,36 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 |---------------|---------------|------------|-----------------|
 | HTML5, CSS3, JS | Node.js, Express | MongoDB Atlas | PayPal Sandbox  |
 
-## ⚙️ Setup Instructions
+## Installation
 
-### 1. 📥 Clone the Repository
+1. Clone the repository:
 
-```bash
-git clone https://github.com/gauravkumar08/quickshop-electronics.git
-cd quickshop-electronics
+   ```bash
+   git clone https://github.com/gauravkumar08/quickshop-electronics.git
+   cd quickshop-electronics
 
-### 1. 📥 Clone the Repository
+2. Install dependencies:
 
-```bash
-git clone https://github.com/gauravkumar08/quickshop-electronics.git
-cd quickshop-electronics
+   ```bash
+   npm init -y
+   npm install express mongoose dotenv
+
+3. Setup MongoDB:
+
+   ```bash
+   PORT=5000
+   MONGO_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/quickshop
+
+4. Start the server:
+   
+   ```bash
+   cd backend
+   node server.js
+
+5. Open your browser and visit:
+   
+   ```bash
+   http://localhost:5000
 
 
 
