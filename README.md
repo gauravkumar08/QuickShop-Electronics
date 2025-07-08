@@ -53,13 +53,13 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 
 # Paypal Sandbox SetUp
 
-Go to: PayPal Developer Console
+Go to: [PayPal Developer Console](https://developer.paypal.com/home/)
 
 Create a Sandbox Business Account
 
 Get your Client ID
 
-Replace in checkout.html:
+Replace in checkout.html
 
 
 
