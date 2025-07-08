@@ -23,3 +23,34 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 
 ## 🗂️ Project Structure
 
+QuickShop/
+├── backend/                  # Node.js + Express + MongoDB
+│   ├── server.js
+│   └── .env
+│
+├── frontend/                 # Static frontend served by Express
+│   ├── index.html
+│   ├── cart.html
+│   ├── checkout.html
+│   ├── style.css
+│   ├── js/
+│   │   ├── app.js           # Handles product listing & search
+│   │   ├── cart.js          # Manages shopping cart
+│   │   └── checkout.js      # PayPal integration logic
+│   └── images/
+│       ├── one_plus.png
+│       └── laptop.webp
+│       ├── watch.webp
+│       ├── headphone.webp
+│       ├── tv.webp
+
+## ⚙️ Setup Instructions
+
+### 1. 📥 Clone the Repository
+
+```bash
+git clone https://github.com/gauravkumar08/quickshop-electronics.git
+cd quickshop-electronics
+
+
+
