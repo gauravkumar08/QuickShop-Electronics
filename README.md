@@ -56,5 +56,3 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 
 
 
-
-
