@@ -68,6 +68,23 @@ Get your Client ID
 
 Replace in checkout.html
 
+# Results
+
+![image](https://github.com/user-attachments/assets/7391d490-b0f5-4adb-9b80-d7a9f2f3a3a8)
+
+![image](https://github.com/user-attachments/assets/4cbd9a59-1b53-4925-871a-f1efa676e0c2)
+
+![image](https://github.com/user-attachments/assets/7867e6bd-47fe-44f3-a956-4d2da55eba70)
+
+![image](https://github.com/user-attachments/assets/05ae08d6-4699-4bd5-a7ec-2bc5a60aef7c)
+
+
+
+
+
+
+
+
 
 
 
