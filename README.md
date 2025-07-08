@@ -2,8 +2,6 @@
 
 QuickShop Electronics is a modern, full-stack e-commerce application built using the MERN (MongoDB, Express, React [HTML/JS in your case], Node.js) stack. It supports product catalog browsing, search functionality, cart state management, and secure checkout using PayPal integration.
 
----
-
 ## 📌 Features
 
 - 🔍 Product catalog with category-based filtering (Mobile, Laptop, etc.)
