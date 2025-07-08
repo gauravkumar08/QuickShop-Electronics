@@ -1,6 +1,6 @@
 # ⚡ QuickShop Electronics 
 
-QuickShop Electronics is a modern, full-stack e-commerce application built using the MERN (MongoDB, Express, React [HTML/JS in your case], Node.js) stack. It supports product catalog browsing, search functionality, cart state management, and secure checkout using PayPal integration.
+**QuickShop Electronics** is a modern, full-stack e-commerce application built using the MERN (MongoDB, Express, React [HTML/JS in your case], Node.js) stack. It supports product catalog browsing, search functionality, cart state management, and secure checkout using **PayPal integration(SandBox)**.
 
 ## 📌 Features
 
@@ -41,7 +41,7 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
    npm init -y
    npm install express mongoose dotenv
 
-2. Setup MongoDB:
+2. Setup MongoDB Atlas :
 
    ```bash
    PORT=5000
