@@ -5,16 +5,24 @@ const mongoose = require("mongoose");
 
 dotenv.config();
 
+if (!process.env.MONGO_URI) {
+  console.error("❌ MONGO_URI is not defined in .env file");
+  process.exit(1); 
+}
+
 const app = express();
 
 mongoose
   .connect(process.env.MONGO_URI)
   .then(() => console.log("✅ Connected to MongoDB"))
-  .catch((err) => console.log("❌ MongoDB Error:", err));
+  .catch((err) => {
+    console.error("❌ MongoDB Error:", err);
+    process.exit(1); 
+  });
 
 app.use(express.json());
 
-const frontendPath = path.join(__dirname, "..", "frontend"); 
+const frontendPath = path.join(__dirname, "..", "frontend");
 app.use(express.static(frontendPath));
 
 app.get("/", (req, res) => {
