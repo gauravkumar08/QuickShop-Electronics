@@ -25,7 +25,7 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
 ### 🎨 Frontend
 - **HTML5** – Structure of all web pages (`index.html`, `cart.html`, `checkout.html`)
 - **CSS3** – Styling the layout, responsiveness, and modern UI
-- **JavaScript (Vanilla JS)** – For handling interactivity like cart updates, filtering, search, etc.
+- **JavaScript** – For handling interactivity like cart updates, filtering, search, etc.
 
 ### 💰 Payments
 - **PayPal SDK** – Integrated payment gateway using PayPal Sandbox for secure transactions
