@@ -51,6 +51,16 @@ QuickShop Electronics is a modern, full-stack e-commerce application built using
    ```bash
    http://localhost:5000
 
+# Paypal Sandbox SetUp
+
+Go to: PayPal Developer Console
+
+Create a Sandbox Business Account
+
+Get your Client ID
+
+Replace in checkout.html:
+
 
 
 
